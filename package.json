@@ -1,0 +1,11 @@
+{
+  "name": "javascript_all_in_one",
+  "version": "1.0.0",
+  "description": "javascript_all_in_one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anil kumar",
+  "license": "ISC"
+}
